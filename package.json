@@ -1,0 +1,19 @@
+{
+  "name": "abcdfgw_xxxxx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/neoXsirius/hexlet-js.git"
+  },
+  "author": "neoXsirius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neoXsirius/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/neoXsirius/hexlet-js#readme"
+}
